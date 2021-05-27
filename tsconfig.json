@@ -16,6 +16,7 @@
     "strictPropertyInitialization": false,
     "sourceMap": true,
     "baseUrl": ".",
+    "noImplicitAny": false,
     "types": [
       "webpack-env",
       "webpack",
